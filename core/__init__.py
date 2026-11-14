@@ -1,0 +1,1 @@
+"""L10n-Translator-Lite 核心層：主題管理與翻譯 Provider。"""

@@ -1,0 +1,1 @@
+"""L10n-Translator-Lite UI 層。"""

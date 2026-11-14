@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+*.egg
+.installed.cfg
+
+# 虛擬環境
+venv/
+.venv/
+env/
+ENV/
+
+# 測試與覆蓋率
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.mypy_cache/
+.ruff_cache/
+
+# IDE / 編輯器
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# 作業系統
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 專案產出
+*.log
+output/
